@@ -3,14 +3,6 @@
 //  FILE: Controlling the motor and switches of the BleeperBike device through Latched Relays
 //  AUTHOR: Paul Banahan
 //  DATE: 13th February 2018
-//
-//  Edited By: Kevin Tighe
-//  Date Edited: 06/03/2018
-// PUPROSE:
-/
-// WORK TO BE DONE:
-// MotorControllerFunction Location when leaving/entering the area to be reviewed
-// as an issue is occuring inregards to controlling the motor when transitioning 
 */
 
 #include "mbed.h"
